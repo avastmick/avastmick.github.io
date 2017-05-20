@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/</loc>
+    <lastmod>2017-05-20T10:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/lesson/computer-science/ks3/overview/</loc>
+    <lastmod>2017-05-21T18:36:24+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/lesson/computer-science/ks3/python/</loc>
+    <lastmod>2017-05-20T10:35:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/lesson/computer-science/computer-science/</loc>
+    <lastmod>2017-05-20T10:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/lesson/computer-science/ks3/intro-to-programming/</loc>
+    <lastmod>2017-05-20T10:05:06+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/_header/</loc>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/tags/comp-sci/</loc>
+    <lastmod>2017-05-21T18:36:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/tags/ks3/</loc>
+    <lastmod>2017-05-21T18:36:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/lesson/</loc>
+    <lastmod>2017-05-21T18:36:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://avastmick.github.io/teaching/tags/</loc>
+    <lastmod>2017-05-21T18:36:24+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
