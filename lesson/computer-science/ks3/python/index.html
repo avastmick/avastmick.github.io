@@ -145,11 +145,12 @@ Open Python IDLE (Python Commandline)
 
 - Should look something like this:
 
-```
+```python
 Python 2.7.13 (v2.7.13:a06454b1afa1, Dec 17 2016, 20:53:40) [MSC v.1500 64 bit (AMD64)] on win32
 Type &#34;help&#34;, &#34;copyright&#34;, &#34;credits&#34; or &#34;license&#34; for more information.
 &gt;&gt;&gt;
 ```
+
 
 ___
 
@@ -158,7 +159,7 @@ ___
 Type in: 
 
 ```python
-&gt;&gt;&gt; print &#34;Hello World!&#34;
+&gt;&gt;&gt; print (&#34;Hello World!&#34;)
 ```
 
 You should see the computer output: 
@@ -189,7 +190,7 @@ So, what do you do when you want to write something complicated and use it again
 #!/usr/bin/python
 
 def some_function():
-    print &#34;Hello World!!&#34;
+    print (&#34;Hello World!!&#34;)
 
 some_function()
 ```
@@ -215,7 +216,7 @@ ___
 
 ![](/images/lessons/intro-to-prog/Output.png)
 
-___
+---
 
 ## Errors
 
@@ -228,12 +229,12 @@ ___
 ```python  
 &gt;&gt;&gt; print &#34;Hello World!
   File &#34;&lt;stdin&gt;&#34;, line 1
-    print &#34;Hello World!
-                      ^
+    print &#34;Hello World! 
+                       ^
 SyntaxError: EOL while scanning string literal
 ```
 
----
+___
 
 ## Indentation
 
@@ -245,18 +246,20 @@ Python **SYNTAX** includes **indentaton**
 
 ```python
 def some_function():
-    print &#34;Hello World!!&#34;
+    print (&#34;Hello World!!&#34;)
 
-↑↑↑↑ indented four characters of whitespace
+^^^^ indented four characters of whitespace
 ```
 
 Your indentation **MUST** be consistent, or Python will give you an error!
+
+---
 
 # Make the computer do the work
 
 Automation is our goal, let&#39;s type less...
 
-----
+___
 
 ## Task
 
@@ -270,7 +273,7 @@ You&#39;ll need a loop for that!
 
 ```python
 &gt;&gt;&gt; for i in range(1,10):
-...     print &#34;Hello World!!&#34;
+...     print (&#34;Hello World!!&#34;)
 ```
 
 ---
@@ -341,7 +344,7 @@ hello = list(&#34;Hello World!!&#34;)
 for i in hello:
     if i != hello[0]:
         del hello[-1]
-    print &#39;&#39;.join(hello)
+    print (&#39;&#39;.join(hello))
 ```
 
 ___
@@ -354,7 +357,7 @@ strLth = len(hello)
 for i in range(0,strLth):
     if i != 0:
         del hello[-1]
-    print &#39;&#39;.join(hello)
+    print (&#39;&#39;.join(hello))
 ```
 
 ---
@@ -386,7 +389,7 @@ Notes on Github...
 
 Lesson plan, examples and notes can be found at:
 
-&lt;https://avastmick.github.io/intro-computers-python/&gt;
+&lt;https://avastmick.github.io/lesson/computer-science/ks3/python/&gt;
 
 
 
